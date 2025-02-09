@@ -1,4 +1,6 @@
-
+.hidden {
+    display: none;
+}
 .hero-section {
     background-image: url('https://images.unsplash.com/photo-1539586345401-51d5bfba7ac0?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGFzdGElMjBkaXNofGVufDB8MHwwfHx8MA%3D%3D'); /* Replace with your hero image */
     background-size: cover;
